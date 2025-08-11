@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Rasel 👋
 
-<!--
-**rasel10mr/rasel10mr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android Developer | Backend Enthusiast | Security-First Coder**
 
-Here are some ideas to get you started:
+I’m passionate about building scalable Android apps with **clean architecture**, **secure data handling**, and **modern best practices**.  
+Skilled in **Android front-end** & **backend API development**, I focus on creating apps that are fast, user-friendly, and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Java, Kotlin
+- **Android:** Jetpack Components, MVVM, Navigation Component, Room, Retrofit, Paging 3
+-  **Backend:** Spring Boot, REST API,PHP
+-   **Database:** MySQL, SQLite, Room
+-   **Tools:** Android Studio, Git
+
+  ## 📌 Current Goals
+- Advance my Kotlin skills  
+- Build secure, scalable Android + backend projects  
+- Contribute to open-source Android libraries
+
+
+
+  ## 📫 Connect With Me
+  **GitHub:** github.com/rasel10mr
+  **Email:** raatrasel@gmail.com
+  
